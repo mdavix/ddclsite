@@ -15,9 +15,9 @@ baseurl: "/ddclsite" # the subpath of your site, e.g. /blog
 url: "http://www.daviesdigital.ltd" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username: mdavix
+github_username:  mdavix
+#facebook_username: StartBootstrap
 #instagram_username: beyonce
 #stackoverflow_url: https://
 #googleplus_username: BobMarley
