@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Agile Coaching"
+date:   2016-09-02 15:08:10 -0500
+img: img/portfolio/cabin.png
+modalID: modalAgile
+category: Design
+---
+With over 12 years experience delivering agile projects in Automotive, Health Insurance, Travel Insurance, Medical Supplies, eCommerce, Commodities, Investments, Catering, Banking, NHS and the MoD we have expert understanding of how agile can be implemented in many different contexts.
+
+There is no magic recipe to implementing agile but there are some common traits of projects that are successful that implement agile methods which we can use to ensure success within your organisation.
