@@ -4,7 +4,7 @@ title:  "DevOps"
 date:   2016-10-01 15:08:10 -0500
 img: img/portfolio/cake.png
 modalID: modalDevOps
-category: Design
+category: DevOps
 ---
 We have experience of implementing state of the art automation solutions within enterprise organisations. Often requiring automation of:
 

@@ -4,7 +4,7 @@ title:  "Agile Coaching"
 date:   2016-10-02 15:08:10 -0500
 img: img/portfolio/cabin.png
 modalID: modalAgile
-category: Design
+category: Agile
 ---
 With over 12 years experience delivering agile projects in Automotive, Health Insurance, Travel Insurance, Medical Supplies, eCommerce, Commodities, Investments, Catering, Banking, NHS and the MoD we have expert understanding of how agile can be implemented in many different contexts.
 
