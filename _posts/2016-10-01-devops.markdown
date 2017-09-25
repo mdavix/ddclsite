@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DevOps"
+title:  "DevOps Consultancy"
 date:   2016-10-01 15:08:10 -0500
 img: img/portfolio/cake.png
 modalID: modalDevOps
